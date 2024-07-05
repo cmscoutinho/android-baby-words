@@ -1,4 +1,4 @@
-package br.edu.unifesspa.babywords;
+package br.com.coutsoft.babywords;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("br.edu.unifesspa.babywords", appContext.getPackageName());
+        assertEquals("br.com.coutsoft.babywords", appContext.getPackageName());
     }
 }

@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "br.edu.unifesspa.babywords"
+    namespace = "br.com.coutsoft.babywords"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "br.edu.unifesspa.babywords"
+        applicationId = "br.com.coutsoft.babywords"
         minSdk = 29
         targetSdk = 34
         versionCode = 1

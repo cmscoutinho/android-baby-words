@@ -1,4 +1,4 @@
-package br.edu.unifesspa.babywords;
+package br.com.coutsoft.babywords;
 
 import org.junit.Test;
 

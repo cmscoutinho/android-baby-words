@@ -9,8 +9,9 @@
 
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/activity_main_button_test"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         android:text="Button" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

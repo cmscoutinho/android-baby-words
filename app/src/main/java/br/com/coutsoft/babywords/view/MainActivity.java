@@ -1,8 +1,10 @@
-package br.com.coutsoft.babywords;
+package br.com.coutsoft.babywords.view;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import br.com.coutsoft.babywords.R;
 
 public class MainActivity extends AppCompatActivity {
 

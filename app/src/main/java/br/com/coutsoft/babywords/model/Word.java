@@ -3,7 +3,7 @@ package br.com.coutsoft.babywords.model;
 import java.time.LocalDate;
 
 public class Word {
-    private String name;
+    private String wordName;
     private LocalDate date;
 
     public Word(String name, LocalDate date) {
